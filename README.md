@@ -1,4 +1,4 @@
-# OpenPitrix资料整理
+# OpenPitrix资料精选
 
 ## 官方文档
 
