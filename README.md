@@ -1,5 +1,7 @@
 # OpenPitrix资料精选
 
+*OpenPitrix = Open Source + PaaS + IaaS + Matrix*
+
 [![](openpitrix-video.png)](https://openpitrix.pek3a.qingstor.com/video/OpenPitrix_min.mp4)
 
 - 视频: https://openpitrix.pek3a.qingstor.com/video/OpenPitrix_min.mp4
@@ -13,6 +15,7 @@
 ## 技术文章
 
 - [OpenPitrix 洞见](https://github.com/openpitrix/openpitrix/wiki/OpenPitrix-%E6%B4%9E%E8%A7%81)
+- [OpenPitrix Insight](https://github.com/openpitrix/openpitrix/wiki/OpenPitrix-Insight)
 - [企业多云应用管理平台痛点剖析及架构设计实践](https://mp.weixin.qq.com/s/1CwErUp2EWVR_WQMtQPF4A) - 含视频
 - [如何跨云实现应用部署管理](https://mp.weixin.qq.com/s/90hmcvcS1cpBPrRjKer79A) - 含视频
 - [探秘 OpenPitrix 多云应用管理平台架构实践](https://zhuanlan.zhihu.com/p/47084690)
