@@ -2,6 +2,8 @@
 
 [![](openpitrix-video.png)](https://openpitrix.pek3a.qingstor.com/video/OpenPitrix_min.mp4)
 
+- 视频: https://openpitrix.pek3a.qingstor.com/video/OpenPitrix_min.mp4
+- 提示: 请在浏览器中查看视频!
 
 ## 官方文档
 
