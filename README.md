@@ -13,9 +13,14 @@
 ## 技术文章
 
 - [OpenPitrix 洞见](https://github.com/openpitrix/openpitrix/wiki/OpenPitrix-%E6%B4%9E%E8%A7%81)
-- [《多云应用管理平台架构设计》幻灯片](https://myslide.cn/slides/8822) - 迟连义
-- [企业多云应用管理平台痛点剖析及架构设计实践](https://mp.weixin.qq.com/s/1CwErUp2EWVR_WQMtQPF4A) - 迟连义, 含视频
+- [企业多云应用管理平台痛点剖析及架构设计实践](https://mp.weixin.qq.com/s/1CwErUp2EWVR_WQMtQPF4A) - 含视频
+- [如何跨云实现应用部署管理](https://mp.weixin.qq.com/s/90hmcvcS1cpBPrRjKer79A) - 含视频
 - [探秘 OpenPitrix 多云应用管理平台架构实践](https://zhuanlan.zhihu.com/p/47084690)
+
+
+**幻灯片**
+
+- - [《多云应用管理平台架构设计》](https://myslide.cn/slides/8822)
 
 
 ## 媒体文章
