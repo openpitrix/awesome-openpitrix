@@ -20,7 +20,7 @@
 
 **幻灯片**
 
-- - [《多云应用管理平台架构设计》](https://myslide.cn/slides/8822)
+- [《多云应用管理平台架构设计》](https://myslide.cn/slides/8822)
 
 
 ## 媒体文章
