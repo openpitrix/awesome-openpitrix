@@ -1,8 +1,7 @@
 # OpenPitrix资料精选
 
-<video controls="controls" style="width: 100% !important; height: auto !important;">
-  <source type="video/mp4" src="https://openpitrix.pek3a.qingstor.com/video/OpenPitrix_min.mp4">
-</video>
+[![](openpitrix-video.png)](https://openpitrix.pek3a.qingstor.com/video/OpenPitrix_min.mp4)
+
 
 ## 官方文档
 
